@@ -11,3 +11,8 @@ Se ejecuta en Docker.
 
 Tiene diseño Responsive. 
 
+En la carpeta Frontend inicia con el comando "npm start"
+
+El backend funciona usando el comando "docker-compose down -v
+docker-compose up --build"
+
